@@ -1,0 +1,11 @@
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\bin\Debug\Desktop.exe
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\bin\Debug\Desktop.pdb
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\obj\Debug\Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\obj\Debug\Desktop.Form1.resources
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\obj\Debug\Desktop.csproj.GenerateResource.Cache
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\obj\Debug\Desktop.exe
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\obj\Debug\Desktop.pdb
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\obj\Debug\Interop.Shell32.dll
+C:\Users\Link\Desktop\3H Prog\Desktop\Desktop\obj\Debug\Desktop.csproj.ResolveComReference.cache
